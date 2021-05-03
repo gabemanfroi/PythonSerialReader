@@ -1,0 +1,6 @@
+comtypes==1.1.9
+pyserial==3.5
+PySimpleGUI==4.39.1
+pywin32==300
+pywinauto==0.6.8
+six==1.15.0
